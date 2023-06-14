@@ -1,242 +1,52 @@
 [
   {
     "id": 1,
-    "productName": "Nantucket Pine Orangebanana",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 229
+    "productName": "Mandarin Orange",
+    "image": "https://images.unsplash.com/photo-1637298230011-71f8f3557eaa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 120
   },
   {
     "id": 2,
-    "productName": "Quiche Assorted",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 199
+    "productName": "Perfectly Peach",
+    "image": "https://images.unsplash.com/photo-1637002057988-c380c8c59a5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 130
   },
   {
     "id": 3,
-    "productName": "Pork - Kidney",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 296
+    "productName": "Tropical Bliss",
+    "image": "https://images.unsplash.com/photo-1638321156031-be4eca8f3efd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 135
   },
   {
     "id": 4,
-    "productName": "Beef - Ground Lean Fresh",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 197
+    "productName": "Crisp Cucumber",
+    "image": "https://images.unsplash.com/photo-1631671608591-4624130ced70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 140
   },
   {
     "id": 5,
-    "productName": "Island Oasis - Banana Daiquiri",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 195
+    "productName": "Watermelon Mania",
+    "image": "https://images.unsplash.com/photo-1651950540805-b7c71869e689?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 110
   },
+
   {
     "id": 6,
-    "productName": "Tobasco Sauce",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 180
+    "productName": "Tropical Berry",
+    "image": "https://images.unsplash.com/photo-1656440428178-777064a512f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 125
   },
+
   {
     "id": 7,
-    "productName": "Cookies - Assorted",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 341
+    "productName": "Mandarin Orange (Zero Sugar)",
+    "image": "https://images.unsplash.com/photo-1646753494922-8f139b244996?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "price": 150
   },
   {
     "id": 8,
-    "productName": "Arctic Char - Fillets",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 283
-  },
-  {
-    "id": 9,
-    "productName": "Squash - Sunburst",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 193
-  },
-  {
-    "id": 10,
-    "productName": "Pork - Ham Hocks - Smoked",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 166
-  },
-  {
-    "id": 11,
-    "productName": "Samosa - Veg",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 157
-  },
-  {
-    "id": 12,
-    "productName": "Chickhen - Chicken Phyllo",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 297
-  },
-  {
-    "id": 13,
-    "productName": "Green Tea Refresher",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 232
-  },
-  {
-    "id": 14,
-    "productName": "Lettuce - Romaine, Heart",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 164
-  },
-  {
-    "id": 15,
-    "productName": "Pasta - Fettuccine, Egg, Fresh",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 218
-  },
-  {
-    "id": 16,
-    "productName": "Wine - Casillero Del Diablo",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 252
-  },
-  {
-    "id": 17,
-    "productName": "Nori Sea Weed - Gold Label",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 219
-  },
-  {
-    "id": 18,
-    "productName": "Bread - Sour Sticks With Onion",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 313
-  },
-  {
-    "id": 19,
-    "productName": "Pepper - Cayenne",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 254
-  },
-  {
-    "id": 20,
-    "productName": "Pastry - Apple Large",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 248
-  },
-  {
-    "id": 21,
-    "productName": "Napkin White",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 241
-  },
-  {
-    "id": 22,
-    "productName": "Pur Source",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 320
-  },
-  {
-    "id": 23,
-    "productName": "Beer - Maudite",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 255
-  },
-  {
-    "id": 24,
-    "productName": "Appetizer - Cheese Bites",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
+    "productName": "Watermelon Mania (Zero Sugar)",
+    "image": "https://images.unsplash.com/photo-1637002057991-d4880c4635e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
     "price": 160
-  },
-  {
-    "id": 25,
-    "productName": "Eggwhite Frozen",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 152
-  },
-  {
-    "id": 26,
-    "productName": "Mustard - Pommery",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 174
-  },
-  {
-    "id": 27,
-    "productName": "Beer - Alexander Kieths, Pale Ale",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 282
-  },
-  {
-    "id": 28,
-    "productName": "Coconut - Shredded, Sweet",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 173
-  },
-  {
-    "id": 29,
-    "productName": "Soup - Campbells Pasta Fagioli",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 293
-  },
-  {
-    "id": 30,
-    "productName": "Aspic - Light",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 288
-  },
-  {
-    "id": 31,
-    "productName": "Fiddlehead - Frozen",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 215
-  },
-  {
-    "id": 32,
-    "productName": "Bread - Sour Sticks With Onion",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 261
-  },
-  {
-    "id": 33,
-    "productName": "Pasta - Fett Alfredo, Single Serve",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 177
-  },
-  {
-    "id": 34,
-    "productName": "Oil - Margarine",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 328
-  },
-  {
-    "id": 35,
-    "productName": "Ham Black Forest",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 327
-  },
-  {
-    "id": 36,
-    "productName": "Soap - Pine Sol Floor Cleaner",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 231
-  },
-  {
-    "id": 37,
-    "productName": "Vanilla Beans",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 330
-  },
-  {
-    "id": 38,
-    "productName": "Hot Choc Vending",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 239
-  },
-  {
-    "id": 39,
-    "productName": "Sprouts - Onion",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 339
-  },
-  {
-    "id": 40,
-    "productName": "Peppercorns - Pink",
-    "image": "https://flowbite.com/docs/images/products/apple-watch.png",
-    "price": 237
   }
 ]
